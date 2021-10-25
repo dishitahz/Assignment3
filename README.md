@@ -1,7 +1,7 @@
 # Assignment3
-Assignment-3 Submitted by:-
+Assignment-3 
 Scholar Id- 2012055
-CSE Sec-A 
+CSE,Sec-A 
 Course code: CS201 
 National Institute of Technology, Silchar
 
